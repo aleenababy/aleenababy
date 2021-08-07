@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleenababy
-- 👀 I’m interested in astronomy, modeling, writing and public speaking
+- 👀 I’m interested in astronomy, computational modeling and simulations, writing and public speaking
 - 🌱 I’m currently learning Mathematica, advection physics in interstellar medium
 - 💞️ I’m looking to collaborate on modeling of star formation
 - 📫 How to reach me baby@ph1.uni-koeln.de or aleenababy839@gmail.com
