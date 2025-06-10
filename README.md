@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working at Access as a Datascientist and AI expert. I also work at Fresenius Hochschule as a Guest Lecturer (subject: Artificial intelligence and Machine learning)<br>👯 I’m looking to collaborate on data science and machine learning projects<br>🤝 I’m looking for help with Docker<br>🌱 I’m currently learning Business intelligence<br>💬 Ask me about Data science and Machine learning<br>⚡ Fun fact Despite my expertise in data science, I'm currently on the lookout for a new job opportunity!
+ I’m currently working at Access as a Datascientist and AI expert. I also work at Fresenius Hochschule as a Guest Lecturer (subject: Artificial intelligence and Machine learning)<br>👯 I’m looking to collaborate on data science and machine learning projects<br>🤝 I’m looking for help with Docker<br>🌱 I’m currently learning Product management <br>💬 Ask me about Data science and Machine learning<br>⚡ Fun fact Despite my busy schedule I love to connect and chat!
 
 
 ## 🌐 Socials:
